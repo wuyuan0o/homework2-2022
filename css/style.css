@@ -57,24 +57,24 @@ span{
 	background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 3px solid #ffffff;
-    border-left: 10px solid #ffffff;
+    border-bottom-width: 3px;
+    border-left-width: 10px;
 }
 
 .blue{
 	background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-bottom: 3px solid #ffffff;
-    border-right: 10px solid #ffffff;
+    border-bottom-width: 3px;
+    border-right-width: 10px;
 }
 
 .yellow{
     background-color: #ffff00;
 	text-align: right;
     margin-left: 50px;
-    border-bottom: 3px solid #ffffff;
-    border-left: 10px solid #ffffff;
+    border-bottom-width: 3px;
+    border-right-width: 10px;
 }
 
 .yellow h2{
@@ -87,11 +87,11 @@ span{
 }
 
 .green{
-	background-color: #008000;
+	background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-bottom: 3px solid #ffffff;
-    border-right: 10px solid #ffffff;
+    border-bottom-width: 3px;
+    border-right-width: 10px;
 }
 
 
